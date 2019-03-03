@@ -1,5 +1,16 @@
 html{
 }
+.boton{
+
+  border-radius: 15px;
+  background-color: #2B3C53;
+  position: relative;
+  top: 20px;
+  left: 0px;
+  width: 100px;
+  height: 40px;
+  color: white;
+}
 header{
 	background-color: #2B3C53;
 	color: white;
